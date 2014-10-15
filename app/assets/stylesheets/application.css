@@ -36,8 +36,8 @@ h1.title {
   font-style: normal;
 }
 h4{
-  margin 0 0 1em;
-  padding 5px;
+  margin: 0 0 1em;
+  padding: 5px;
   background-color: black;
   border-top:2px solid gold;
 }
